@@ -91,6 +91,13 @@ build GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj: CXX_COMPIL
   TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
   TARGET_PDB = GolferProblem\GolferProblem.pdb
 
+build GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj: CXX_COMPILER__GolferProblem_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\util.cpp || cmake_object_order_depends_target_GolferProblem
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblem.dir
+  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblem.dir\source
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
+  TARGET_PDB = GolferProblem\GolferProblem.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target GolferProblem
@@ -99,7 +106,7 @@ build GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable GolferProblem\GolferProblem.exe
 
-build GolferProblem\GolferProblem.exe: CXX_EXECUTABLE_LINKER__GolferProblem_Debug GolferProblem\CMakeFiles\GolferProblem.dir\source\GolferProblem.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj
+build GolferProblem\GolferProblem.exe: CXX_EXECUTABLE_LINKER__GolferProblem_Debug GolferProblem\CMakeFiles\GolferProblem.dir\source\GolferProblem.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
