@@ -1100,6 +1100,78 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem"
+		},
+		{
+			"name" : "GDA2023_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem"
+		},
+		{
+			"name" : "GDA2023_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "GDA2023_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem"
+		},
+		{
+			"name" : "GolferProblem_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem"
+		},
+		{
+			"name" : "GolferProblem_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "GolferProblem_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem"
 		}
 	],
 	"kind" : "cache",

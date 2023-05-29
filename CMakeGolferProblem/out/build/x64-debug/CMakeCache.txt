@@ -204,6 +204,24 @@ CMakeGolferProblem_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 CMakeGolferProblem_SOURCE_DIR:STATIC=C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem
 
+//Value Computed by CMake
+GDA2023_BINARY_DIR:STATIC=C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem
+
+//Value Computed by CMake
+GDA2023_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+GDA2023_SOURCE_DIR:STATIC=C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem
+
+//Value Computed by CMake
+GolferProblem_BINARY_DIR:STATIC=C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem
+
+//Value Computed by CMake
+GolferProblem_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+GolferProblem_SOURCE_DIR:STATIC=C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem
+
 
 ########################
 # INTERNAL cache entries
