@@ -1,4 +1,4 @@
-#include "../include/util.h"
+#include <util.h>
 #include <algorithm>
 #include <random>
 #include <unordered_set>
@@ -110,4 +110,26 @@ int Util::eval(GolferProblem p, int penalty_per_week, int penalty_global) {
     return score;
 }
 
+void swap_locations(GolferProblem& p, short week_index, short group_index_1, short player_index_1, short group_index_2, short player_index_2) {
+    auto temp = p.schedule[week_index][group_index_1][player_index_1];
+    p.schedule[week_index][group_index_1][player_index_1] = p.schedule[week_index][group_index_2][player_index_2];
+    p.schedule[week_index][group_index_2][player_index_2] = temp;
+}
+void swap_randomly(GolferProblem& p, short week_index, short group_index_1, short player_index_1, short range_beginning, short range_ending) {
+    std::random_device device;
+    std::default_random_engine engine(device());
+    std::uniform_real_distribution<float> distribution_player(static_cast <float> (range_beginning), static_cast <float> (range_ending));
+    p.schedule[week_index][group_index_1][player_index_1] = F_ROUND_INT(distribution_player(engine));
+}
+
+void Util::swap(GolferProblem& p, std::vector<short> meta_info, int mode) {
+    switch (mode){
+      case 0: 
+          swap_locations(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]); break;
+      case 1:
+          swap_randomly(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]); break;
+    default:
+        break;
+    }
+}
 

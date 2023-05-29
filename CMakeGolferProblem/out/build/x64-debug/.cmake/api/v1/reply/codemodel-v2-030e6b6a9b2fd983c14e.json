@@ -23,14 +23,15 @@
 					"jsonFile" : "directory-GolferProblem-Debug-a2908a75233efa68302f.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.8"
+						"string" : "3.24"
 					},
 					"parentIndex" : 0,
-					"projectIndex" : 0,
+					"projectIndex" : 1,
 					"source" : "GolferProblem",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,15 +39,27 @@
 			"projects" : 
 			[
 				{
+					"childIndexes" : 
+					[
+						1
+					],
 					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CMakeGolferProblem"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "GolferProblem",
+					"parentIndex" : 0,
+					"targetIndexes" : 
 					[
 						0,
 						1
-					],
-					"name" : "CMakeGolferProblem",
-					"targetIndexes" : 
-					[
-						0
 					]
 				}
 			],
@@ -55,9 +68,16 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "GolferProblem::@5310c2b46159d1771a65",
-					"jsonFile" : "target-GolferProblem-Debug-41f0a76162b163c4e02b.json",
+					"jsonFile" : "target-GolferProblem-Debug-da40796cd1ef14ecbf44.json",
 					"name" : "GolferProblem",
-					"projectIndex" : 0
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GolferProblemCommon::@5310c2b46159d1771a65",
+					"jsonFile" : "target-GolferProblemCommon-Debug-9544c1f32bd1b67cf329.json",
+					"name" : "GolferProblemCommon",
+					"projectIndex" : 1
 				}
 			]
 		}

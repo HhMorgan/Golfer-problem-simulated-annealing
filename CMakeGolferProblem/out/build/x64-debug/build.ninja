@@ -69,6 +69,57 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 # =============================================================================
 
 # =============================================================================
+# Object build statements for STATIC_LIBRARY target GolferProblemCommon
+
+
+#############################################
+# Order-only phony target for GolferProblemCommon
+
+build cmake_object_order_depends_target_GolferProblemCommon: phony || GolferProblem\CMakeFiles\GolferProblemCommon.dir
+
+build GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\main.cpp.obj: CXX_COMPILER__GolferProblemCommon_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\main.cpp || cmake_object_order_depends_target_GolferProblemCommon
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\}"
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir
+  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir\source
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblemCommon.dir\GolferProblemCommon.pdb
+  TARGET_PDB = GolferProblem\GolferProblemCommon.pdb
+
+build GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\util.cpp.obj: CXX_COMPILER__GolferProblemCommon_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\util.cpp || cmake_object_order_depends_target_GolferProblemCommon
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\}"
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir
+  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir\source
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblemCommon.dir\GolferProblemCommon.pdb
+  TARGET_PDB = GolferProblem\GolferProblemCommon.pdb
+
+build GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\solver.cpp.obj: CXX_COMPILER__GolferProblemCommon_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\solver.cpp || cmake_object_order_depends_target_GolferProblemCommon
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\}"
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir
+  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir\source
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblemCommon.dir\GolferProblemCommon.pdb
+  TARGET_PDB = GolferProblem\GolferProblemCommon.pdb
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target GolferProblemCommon
+
+
+#############################################
+# Link the static library GolferProblem\GolferProblemCommon.lib
+
+build GolferProblem\GolferProblemCommon.lib: CXX_STATIC_LIBRARY_LINKER__GolferProblemCommon_Debug GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\main.cpp.obj GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\util.cpp.obj GolferProblem\CMakeFiles\GolferProblemCommon.dir\source\solver.cpp.obj
+  LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  LINK_FLAGS = /machine:x64
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblemCommon.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblemCommon.dir\GolferProblemCommon.pdb
+  TARGET_FILE = GolferProblem\GolferProblemCommon.lib
+  TARGET_PDB = GolferProblem\GolferProblemCommon.pdb
+
+# =============================================================================
 # Object build statements for EXECUTABLE target GolferProblem
 
 
@@ -77,15 +128,9 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 
 build cmake_object_order_depends_target_GolferProblem: phony || GolferProblem\CMakeFiles\GolferProblem.dir
 
-build GolferProblem\CMakeFiles\GolferProblem.dir\source\GolferProblem.cpp.obj: CXX_COMPILER__GolferProblem_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\GolferProblem.cpp || cmake_object_order_depends_target_GolferProblem
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
-  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblem.dir
-  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblem.dir\source
-  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
-  TARGET_PDB = GolferProblem\GolferProblem.pdb
-
 build GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj: CXX_COMPILER__GolferProblem_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\main.cpp || cmake_object_order_depends_target_GolferProblem
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source"
   OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblem.dir
   OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblem.dir\source
   TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
@@ -93,6 +138,15 @@ build GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj: CXX_COMPIL
 
 build GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj: CXX_COMPILER__GolferProblem_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\util.cpp || cmake_object_order_depends_target_GolferProblem
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source"
+  OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblem.dir
+  OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblem.dir\source
+  TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
+  TARGET_PDB = GolferProblem\GolferProblem.pdb
+
+build GolferProblem\CMakeFiles\GolferProblem.dir\source\solver.cpp.obj: CXX_COMPILER__GolferProblem_Debug C$:\Users\hesha\Documents\Uni$ projects\PSS\Search$ algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source\solver.cpp || cmake_object_order_depends_target_GolferProblem
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI -std:c++20
+  INCLUDES = -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\include" -I"C:\Users\hesha\Documents\Uni projects\PSS\Search algorithm\Golfer-problem-simulated-annealing\CMakeGolferProblem\GolferProblem\source"
   OBJECT_DIR = GolferProblem\CMakeFiles\GolferProblem.dir
   OBJECT_FILE_DIR = GolferProblem\CMakeFiles\GolferProblem.dir\source
   TARGET_COMPILE_PDB = GolferProblem\CMakeFiles\GolferProblem.dir\
@@ -106,7 +160,7 @@ build GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable GolferProblem\GolferProblem.exe
 
-build GolferProblem\GolferProblem.exe: CXX_EXECUTABLE_LINKER__GolferProblem_Debug GolferProblem\CMakeFiles\GolferProblem.dir\source\GolferProblem.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj
+build GolferProblem\GolferProblem.exe: CXX_EXECUTABLE_LINKER__GolferProblem_Debug GolferProblem\CMakeFiles\GolferProblem.dir\source\main.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\util.cpp.obj GolferProblem\CMakeFiles\GolferProblem.dir\source\solver.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
@@ -148,6 +202,10 @@ build GolferProblem: phony GolferProblem\GolferProblem.exe
 
 build GolferProblem.exe: phony GolferProblem\GolferProblem.exe
 
+build GolferProblemCommon: phony GolferProblem\GolferProblemCommon.lib
+
+build GolferProblemCommon.lib: phony GolferProblem\GolferProblemCommon.lib
+
 # =============================================================================
 # Folder targets.
 
@@ -163,7 +221,7 @@ build all: phony GolferProblem\all
 #############################################
 # Folder: C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem
 
-build GolferProblem\all: phony GolferProblem\GolferProblem.exe
+build GolferProblem\all: phony GolferProblem\GolferProblemCommon.lib GolferProblem\GolferProblem.exe
 
 # =============================================================================
 # Built-in targets
