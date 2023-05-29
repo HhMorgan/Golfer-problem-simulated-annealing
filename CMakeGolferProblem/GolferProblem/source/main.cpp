@@ -6,7 +6,6 @@
 
 int main(){
 	GolferProblem p(10,8,4);
-	std::cout << "Hello? " << std::endl;
 	//GolferProblem p(2, 4, 3);
 	std::cout << "number of players is "<< p.players << std::endl;
 	

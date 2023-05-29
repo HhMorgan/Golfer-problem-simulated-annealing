@@ -116,7 +116,10 @@ void swap_locations(GolferProblem& p, short week_index, short group_index_1, sho
     p.schedule[week_index][group_index_2][player_index_2] = temp;
 }
 void swap_randomly(GolferProblem& p, short week_index, short group_index_1, short player_index_1, short range_beginning, short range_ending) {
-
+    std::random_device device;
+    std::default_random_engine engine(device());
+    std::uniform_real_distribution<float> distribution_player(static_cast <float> (range_beginning), static_cast <float> (range_ending));
+    p.schedule[week_index][group_index_1][player_index_1] = F_ROUND_INT(distribution_player(engine));
 }
 
 void Util::swap(GolferProblem& p, std::vector<short> meta_info, int mode) {

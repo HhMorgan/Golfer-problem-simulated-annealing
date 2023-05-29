@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 #Additions
 *.ninja_log
+CMakeGolferProblem/out/build/x64-debug/.ninja_log
