@@ -125,9 +125,9 @@ void swap_randomly(GolferProblem& p, short week_index, short group_index_1, shor
 void Util::swap(GolferProblem& p, std::vector<short> meta_info, int mode) {
     switch (mode){
       case 0: 
-          swap_locations(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]);
+          swap_locations(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]); break;
       case 1:
-          swap_randomly(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]);
+          swap_randomly(p, meta_info[0], meta_info[1], meta_info[2], meta_info[3], meta_info[4]); break;
     default:
         break;
     }

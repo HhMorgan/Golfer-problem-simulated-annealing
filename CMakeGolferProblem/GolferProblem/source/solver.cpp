@@ -2,7 +2,7 @@
 #include <random>
 
 void SimulatedAnnealingNPAbsolute::solve(GolferProblem& p) {
-    if (k = -1) k = p.groups;
+    if (k == -1) k = p.groups;
     if (weeks_range.empty()) {
         //std::cout << "weeks empty" << std::endl;
         for (short i = 0; i < p.weeks; i++) {
@@ -15,6 +15,8 @@ void SimulatedAnnealingNPAbsolute::solve(GolferProblem& p) {
             groups_range.push_back(i);
         }
     }
+
+    int groups_range_size = groups_range.size();
 
     std::random_device device;
     std::default_random_engine engine(device());
@@ -42,14 +44,14 @@ void SimulatedAnnealingNPAbsolute::solve(GolferProblem& p) {
             auto beginning_range = ((current_group_index - (k / 2))) < 0 ?
                 0 :
                 (current_group_index - k / 2);
-            beginning_range = ((current_group_index + (k / 2))) > p.groups - 1 ?
+            beginning_range = ((current_group_index + (k / 2))) > groups_range_size - 1 ?
                 (beginning_range - k / 2 >= 0 ? beginning_range - k / 2 : 0) :
                 beginning_range;
-            auto end_range = ((current_group_index + (k / 2))) > p.groups - 1 ?
-                p.groups - 1 :
+            auto end_range = ((current_group_index + (k / 2))) > groups_range_size - 1 ?
+                groups_range_size - 1 :
                 (current_group_index + (k / 2));
             end_range = ((current_group_index - (k / 2))) < 0 ?
-                (end_range + k / 2 <= p.groups - 1 ? end_range + k / 2 : p.groups - 1) :
+                (end_range + k / 2 <= groups_range_size - 1 ? end_range + k / 2 : groups_range_size - 1) :
                 end_range;
             //We now get another random point to check if we should swap it with the other one
             short other_group_index;
@@ -60,8 +62,8 @@ void SimulatedAnnealingNPAbsolute::solve(GolferProblem& p) {
             if (activation_function == 0) {
                 std::uniform_real_distribution<float> distribution_ranged_groups(static_cast <float> (beginning_range),
                     static_cast <float> (end_range));
-
-                other_group_index = groups_range[F_ROUND_INT(distribution_ranged_groups(engine))];
+                auto index = F_ROUND_INT(distribution_ranged_groups(engine));
+                other_group_index = groups_range[index];
                 other_group = current_week[other_group_index];
                 other_player_index = F_ROUND_INT(distribution_group_size(engine));
                 other_player = other_group[other_player_index];
