@@ -26,9 +26,20 @@ void executor(std::ofstream& file) {
 		file << "Instance (" << instances[i].groups << "-" << instances[i].group_size << "-" << instances[i].weeks << ")\n";
 		for (size_t j = 0; j < 5; j++) {
 			SimulatedAnnealingNPAbsolute simulated_annealing(500, 0.001f, 105.0f, 0.99f, 8, 0, 1, 5);
+			//SimulatedAnnealingNPAbsolute simulated_annealing({ 6, 7, 9 }, { 0, 1, 2, 3, 4, 5, 6, 7 }, 500, 0.001f, 105.0f, 0.99f, 8, 0, 1, 5);
+
 			file << "Iteration " << j + 1 << "\n";
 			temp = instances[i];
 			Util::randomIntialization(temp.players, temp.group_size, temp.groups, temp.weeks, temp.schedule);
+			/* Week range experiment
+			temp.schedule[0] = { {15, 30, 11, 12}, {26, 10, 6, 5}, {4, 2, 20, 24}, {21, 25, 17, 16}, {29, 14, 13, 22}, {27, 8, 18, 3}, {28, 19, 31, 32}, {7, 9, 23, 1} };
+			temp.schedule[1] = { {10, 24, 15, 3}, {8, 9, 31, 17}, {12, 5, 29, 23}, {6, 16, 30, 13}, {18, 28, 2, 11}, {20, 14, 25, 32}, {22, 26, 7, 21}, {4, 19, 27, 1} };
+			temp.schedule[2] = { {18, 17, 23, 19}, {14, 4, 3, 21}, {22, 32, 30, 1}, {7, 12, 20, 27}, {10, 8, 13, 11}, {5, 16, 24, 28}, {15, 25, 9, 6}, {26, 29, 31, 2} };
+			temp.schedule[3] = { {18, 9, 14, 10}, {12, 1, 28, 13}, {22, 11, 6, 19}, {21, 30, 5, 31}, {24, 8, 25, 29}, {15, 27, 16, 2}, {20, 3, 23, 26}, {7, 17, 32, 4} };
+			temp.schedule[4] = { {13, 7, 25, 2}, {11, 24, 27, 32}, {16, 19, 9, 26}, {10, 29, 1, 21}, {15, 28, 17, 14}, {5, 18, 20, 22}, {12, 31, 6, 3}, {8, 30, 23, 4} };
+			temp.schedule[5] = { {14, 30, 27, 26}, {29, 7, 19, 3}, {18, 24, 31, 13}, {23, 25, 22, 28}, {12, 10, 16, 32}, {21, 8, 20, 15}, {17, 6, 2, 1}, {9, 4, 5, 11} };
+			temp.schedule[6] = { {24, 9, 12, 22}, {25, 19, 30, 10}, {8, 28, 7, 6}, {23, 13, 27, 21}, {20, 29, 17, 11}, {5, 32, 2, 3}, {15, 26, 4, 18}, {14, 1, 31, 16} };
+			*/
 			simulated_annealing.solve(temp);
 			file << "Schedule: " << "\n";
 
@@ -123,10 +134,12 @@ void gridSearch(std::ofstream& file) {
 }
 
 int main() {
+	//Test used for data in slides
 
-	std::ofstream outputFile("results_cont.txt");  // Open file for writing
+	std::ofstream outputFile("results_new.txt");  // Open file for writing
 	executor(outputFile);
-	/*GolferProblem p(10, 8, 4);
+	/* Faster tests for algorithm
+	GolferProblem p(10, 8, 4);
 	//GolferProblem p(2, 4, 3);
 	std::cout << "number of players is "<< p.players << std::endl;
 
