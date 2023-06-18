@@ -7,7 +7,7 @@
 03) Download a fresh copy of the latest version of the project
 04) Unzip the download
 05) Open Visual Studio 2022
-06) Choose "Open folder" and select the folder from the location you have set it in [Folder name: Golfer-problem-simulated-annealing]
+06) Choose "Open folder" and select Golfer-problem-simulated-annealing from the location you have set it in 
 07) A CMake integration window will pop up. Press on "Enable and set source directory"
 08) Select the CMake file in the following path, ./Golfer-problem-simulated-annealing/CMakeGolferProblem/CMakeLists.txt
 09) Compile the program
