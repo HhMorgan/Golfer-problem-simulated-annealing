@@ -10,7 +10,7 @@ void Util::randomIntialization(short players, short group_size, short groups, sh
         flattened_players[i - 1] = i;
     }
     schedule.resize(weeks);
-    std::cout << "size: " << schedule.size() <<std::endl;
+    //std::cout << "size: " << schedule.size() <<std::endl;
     for (int i = 0; i < weeks; i++) {
         unsigned seed = 0;
         std::shuffle(flattened_players.begin(), flattened_players.end(),
@@ -109,6 +109,18 @@ int Util::eval(GolferProblem p, int penalty_per_week, int penalty_global) {
     score += evalForSchedule(p, penalty_global);
     return score;
 }
+
+int Util::evalWeeks(GolferProblem p, int penalty_per_week, int penalty_global) {
+    int res = 0;
+    for (auto week : p.schedule) {
+        int score = evalForWeek(week, penalty_per_week);
+        if (score == 0) {
+            res++;
+        }
+    }
+    return res;
+}
+
 
 void swap_locations(GolferProblem& p, short week_index, short group_index_1, short player_index_1, short group_index_2, short player_index_2) {
     auto temp = p.schedule[week_index][group_index_1][player_index_1];

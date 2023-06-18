@@ -1,0 +1,1592 @@
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 91
+
+New best score is 91
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 237
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 96
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 194
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+New best score is 81
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 197
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 80
+
+New best score is 80
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 196
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 78
+
+New best score is 78
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 197
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 72
+
+New best score is 72
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 208
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 63
+
+New best score is 63
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 227
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 73
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 218
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 76
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 61
+
+New best score is 61
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 169
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+New best score is 57
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 194
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 72
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 196
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 60
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 210
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 53
+
+New best score is 53
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 191
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 58
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 147
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 143
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 47
+
+New best score is 47
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 144
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 46
+
+New best score is 46
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 135
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 117
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 128
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 39
+
+New best score is 39
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 115
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 43
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 108
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 92
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 51
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 96
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 36
+
+New best score is 36
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 98
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 36
+
+Paramters are  Max Temp: 85 Min temp: 0.001 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 86
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 98
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 204
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 92
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 83
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 206
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 87
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 83
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 195
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 73
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 209
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 83
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 186
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 77
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 78
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 221
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 67
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 238
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 65
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 66
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 208
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 60
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 206
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 217
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 165
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 61
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 168
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 51
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 162
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 166
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 56
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 133
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 132
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 48
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 118
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 44
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 133
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 105
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 48
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 98
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 43
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 98
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 36
+
+Paramters are  Max Temp: 85 Min temp: 0.01 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 105
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 102
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 103
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 234
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 96
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 194
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 95
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 219
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 87
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 90
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 246
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 90
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 207
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 88
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 190
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 83
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 231
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 80
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 229
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 69
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 224
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 72
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 211
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 74
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 226
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 71
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 208
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 66
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 211
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 228
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 66
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 191
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 68
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 184
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 183
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 174
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 60
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 151
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 55
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 148
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 51
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 154
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 47
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 152
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 107
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 114
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 41
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 114
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 41
+
+Paramters are  Max Temp: 85 Min temp: 0.05 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 111
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 106
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 216
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 108
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 217
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 94
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 230
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 97
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 100
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 207
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 99
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 242
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 89
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 212
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 77
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 223
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 84
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 224
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 82
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 238
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 65
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 233
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 72
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 219
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 75
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 230
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 75
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 215
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 61
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 235
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 69
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 206
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 67
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 204
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 68
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 195
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 64
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 221
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 192
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 148
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 56
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 158
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 134
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 46
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 164
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 120
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 121
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 44
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 123
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 39
+
+Paramters are  Max Temp: 85 Min temp: 0.1 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 118
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 95
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 219
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 86
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 193
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 84
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 187
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 231
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 75
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 220
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 78
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 196
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 71
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 213
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 68
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 69
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 209
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 65
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 197
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 65
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 232
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 55
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 231
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 66
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 173
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 67
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 199
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 55
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 200
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 220
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 166
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 142
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 163
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 41
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 128
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 122
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 53
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 116
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 47
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 120
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 41
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 110
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 47
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 97
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 53
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 85
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 39
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 98
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 38
+
+Paramters are  Max Temp: 90 Min temp: 0.001 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 97
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 93
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 202
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 92
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 208
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 89
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 218
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 196
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 88
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 228
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 82
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 213
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 74
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 229
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 70
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 203
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 79
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 212
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 78
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 211
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 210
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 63
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 199
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 70
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 207
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 72
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 225
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 61
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 205
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 187
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 64
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 144
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 63
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 146
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 46
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 174
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 171
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 58
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 121
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 123
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 43
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 129
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 44
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 125
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 49
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 110
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 52
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 90
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 37
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 100
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 34
+
+New best score is 34
+
+Paramters are  Max Temp: 90 Min temp: 0.01 Cooling Rate: 0.99 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 109
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 104
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 221
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 99
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 221
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 91
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 209
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 93
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.65 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 241
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 102
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 198
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 85
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 230
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 81
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 203
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 79
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.75 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 236
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 79
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 240
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 78
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 235
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 73
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 214
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 69
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.85 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 224
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 70
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 206
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 82
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 210
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 71
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 194
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.9 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 259
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 63
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 191
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 62
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 200
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 186
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 57
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.95 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 172
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 54
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 147
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 59
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 129
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 50
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 143
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 46
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.975 k: 8Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 148
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 2Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 46
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 2Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 108
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 3Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 47
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 3Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 107
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 4Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 41
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 4Activation: 1 Week Penalty: 1 Global Penalty 5
+
+Score is 106
+
+Paramters are  Max Temp: 90 Min temp: 0.05 Cooling Rate: 0.99 k: 8Activation: 0 Week Penalty: 1 Global Penalty 5
+
+Score is 40
+

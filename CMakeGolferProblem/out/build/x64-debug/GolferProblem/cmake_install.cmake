@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem
+# Install script for directory: C:/Users/Simon/source/repos/Golfer-problem-simulated-annealing/CMakeGolferProblem/GolferProblem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Simon/Source/Repos/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

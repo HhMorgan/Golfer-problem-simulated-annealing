@@ -23,5 +23,6 @@ struct GolferProblem {
 																group_size(group_size), 
 																players(groups * group_size){}
 
+
 };
 

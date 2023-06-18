@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem
+# Install script for directory: C:/Users/Simon/source/repos/Golfer-problem-simulated-annealing/CMakeGolferProblem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Simon/Source/Repos/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem/cmake_install.cmake")
+  include("C:/Users/Simon/source/repos/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/GolferProblem/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/hesha/Documents/Uni projects/PSS/Search algorithm/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Simon/source/repos/Golfer-problem-simulated-annealing/CMakeGolferProblem/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
